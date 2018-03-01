@@ -16,24 +16,6 @@
 		1AF9CF5E2047AB96008BDDC4 /* PimpapareUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CF5D2047AB96008BDDC4 /* PimpapareUITests.swift */; };
 		1AF9CF6E2047ABE9008BDDC4 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CF6D2047ABE9008BDDC4 /* UIViewExtension.swift */; };
 		1AF9CF702047B2B5008BDDC4 /* Log.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CF6F2047B2B5008BDDC4 /* Log.swift */; };
-		1AF9CFE92047BE23008BDDC4 /* DayAgendaAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFD52047BE20008BDDC4 /* DayAgendaAPIs.swift */; };
-		1AF9CFEA2047BE23008BDDC4 /* AppUtilityAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFD62047BE20008BDDC4 /* AppUtilityAPIs.swift */; };
-		1AF9CFEB2047BE23008BDDC4 /* PushService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFD72047BE20008BDDC4 /* PushService.swift */; };
-		1AF9CFEC2047BE23008BDDC4 /* UserAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFD82047BE21008BDDC4 /* UserAPIs.swift */; };
-		1AF9CFED2047BE23008BDDC4 /* CustomerAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFD92047BE21008BDDC4 /* CustomerAPIs.swift */; };
-		1AF9CFEE2047BE23008BDDC4 /* APIsConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFDA2047BE21008BDDC4 /* APIsConfig.swift */; };
-		1AF9CFEF2047BE23008BDDC4 /* AccountRecoveryAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFDB2047BE21008BDDC4 /* AccountRecoveryAPIs.swift */; };
-		1AF9CFF02047BE23008BDDC4 /* APIsConfig.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1AF9CFDD2047BE21008BDDC4 /* APIsConfig.plist */; };
-		1AF9CFF12047BE23008BDDC4 /* AppFeedbackAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFDE2047BE22008BDDC4 /* AppFeedbackAPIs.swift */; };
-		1AF9CFF22047BE23008BDDC4 /* UserCredentials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFDF2047BE22008BDDC4 /* UserCredentials.swift */; };
-		1AF9CFF32047BE23008BDDC4 /* Appointment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFE12047BE22008BDDC4 /* Appointment.swift */; };
-		1AF9CFF42047BE23008BDDC4 /* CallHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFE22047BE22008BDDC4 /* CallHandling.swift */; };
-		1AF9CFF52047BE23008BDDC4 /* SyncContactData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFE32047BE22008BDDC4 /* SyncContactData.swift */; };
-		1AF9CFF62047BE23008BDDC4 /* CallHistoryAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFE42047BE22008BDDC4 /* CallHistoryAPIs.swift */; };
-		1AF9CFF72047BE23008BDDC4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1AF9CFE52047BE22008BDDC4 /* Info.plist */; };
-		1AF9CFF82047BE23008BDDC4 /* ContactSyncAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFE62047BE22008BDDC4 /* ContactSyncAPIs.swift */; };
-		1AF9CFF92047BE23008BDDC4 /* NotificationAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFE72047BE23008BDDC4 /* NotificationAPIs.swift */; };
-		1AF9CFFA2047BE23008BDDC4 /* PhoneServiceAPIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9CFE82047BE23008BDDC4 /* PhoneServiceAPIs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,25 +51,6 @@
 		1AF9CF5F2047AB96008BDDC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AF9CF6D2047ABE9008BDDC4 /* UIViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 		1AF9CF6F2047B2B5008BDDC4 /* Log.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Log.swift; sourceTree = "<group>"; };
-		1AF9CFD52047BE20008BDDC4 /* DayAgendaAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DayAgendaAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFD62047BE20008BDDC4 /* AppUtilityAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppUtilityAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFD72047BE20008BDDC4 /* PushService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PushService.swift; sourceTree = "<group>"; };
-		1AF9CFD82047BE21008BDDC4 /* UserAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFD92047BE21008BDDC4 /* CustomerAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomerAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFDA2047BE21008BDDC4 /* APIsConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIsConfig.swift; sourceTree = "<group>"; };
-		1AF9CFDB2047BE21008BDDC4 /* AccountRecoveryAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountRecoveryAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFDC2047BE21008BDDC4 /* CoreAPIs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreAPIs.h; sourceTree = "<group>"; };
-		1AF9CFDD2047BE21008BDDC4 /* APIsConfig.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = APIsConfig.plist; sourceTree = "<group>"; };
-		1AF9CFDE2047BE22008BDDC4 /* AppFeedbackAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppFeedbackAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFDF2047BE22008BDDC4 /* UserCredentials.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserCredentials.swift; sourceTree = "<group>"; };
-		1AF9CFE12047BE22008BDDC4 /* Appointment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Appointment.swift; sourceTree = "<group>"; };
-		1AF9CFE22047BE22008BDDC4 /* CallHandling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CallHandling.swift; sourceTree = "<group>"; };
-		1AF9CFE32047BE22008BDDC4 /* SyncContactData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SyncContactData.swift; sourceTree = "<group>"; };
-		1AF9CFE42047BE22008BDDC4 /* CallHistoryAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CallHistoryAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFE52047BE22008BDDC4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../../../WorkCLBS/office24 prototype/Frameworks/CoreAPIs/CoreAPIs/Info.plist"; sourceTree = "<group>"; };
-		1AF9CFE62047BE22008BDDC4 /* ContactSyncAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactSyncAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFE72047BE23008BDDC4 /* NotificationAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationAPIs.swift; sourceTree = "<group>"; };
-		1AF9CFE82047BE23008BDDC4 /* PhoneServiceAPIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhoneServiceAPIs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,25 +101,6 @@
 		1AF9CF3C2047AB96008BDDC4 /* Pimpapare */ = {
 			isa = PBXGroup;
 			children = (
-				1AF9CFDB2047BE21008BDDC4 /* AccountRecoveryAPIs.swift */,
-				1AF9CFDD2047BE21008BDDC4 /* APIsConfig.plist */,
-				1AF9CFDA2047BE21008BDDC4 /* APIsConfig.swift */,
-				1AF9CFDE2047BE22008BDDC4 /* AppFeedbackAPIs.swift */,
-				1AF9CFD62047BE20008BDDC4 /* AppUtilityAPIs.swift */,
-				1AF9CFE42047BE22008BDDC4 /* CallHistoryAPIs.swift */,
-				1AF9CFE62047BE22008BDDC4 /* ContactSyncAPIs.swift */,
-				1AF9CFDC2047BE21008BDDC4 /* CoreAPIs.h */,
-				1AF9CFD92047BE21008BDDC4 /* CustomerAPIs.swift */,
-				1AF9CFD52047BE20008BDDC4 /* DayAgendaAPIs.swift */,
-				1AF9CFE52047BE22008BDDC4 /* Info.plist */,
-				1AF9CFE12047BE22008BDDC4 /* Appointment.swift */,
-				1AF9CFE22047BE22008BDDC4 /* CallHandling.swift */,
-				1AF9CFE32047BE22008BDDC4 /* SyncContactData.swift */,
-				1AF9CFE72047BE23008BDDC4 /* NotificationAPIs.swift */,
-				1AF9CFE82047BE23008BDDC4 /* PhoneServiceAPIs.swift */,
-				1AF9CFD72047BE20008BDDC4 /* PushService.swift */,
-				1AF9CFD82047BE21008BDDC4 /* UserAPIs.swift */,
-				1AF9CFDF2047BE22008BDDC4 /* UserCredentials.swift */,
 				1AF9CF3D2047AB96008BDDC4 /* AppDelegate.swift */,
 				1AF9CF3F2047AB96008BDDC4 /* ViewController.swift */,
 				1AF9CF6F2047B2B5008BDDC4 /* Log.swift */,
@@ -295,9 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AF9CF482047AB96008BDDC4 /* LaunchScreen.storyboard in Resources */,
-				1AF9CFF02047BE23008BDDC4 /* APIsConfig.plist in Resources */,
 				1AF9CF452047AB96008BDDC4 /* Assets.xcassets in Resources */,
-				1AF9CFF72047BE23008BDDC4 /* Info.plist in Resources */,
 				1AF9CF432047AB96008BDDC4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -323,25 +265,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1AF9CFE92047BE23008BDDC4 /* DayAgendaAPIs.swift in Sources */,
-				1AF9CFF62047BE23008BDDC4 /* CallHistoryAPIs.swift in Sources */,
-				1AF9CFEA2047BE23008BDDC4 /* AppUtilityAPIs.swift in Sources */,
-				1AF9CFF92047BE23008BDDC4 /* NotificationAPIs.swift in Sources */,
 				1AF9CF6E2047ABE9008BDDC4 /* UIViewExtension.swift in Sources */,
-				1AF9CFF52047BE23008BDDC4 /* SyncContactData.swift in Sources */,
-				1AF9CFF42047BE23008BDDC4 /* CallHandling.swift in Sources */,
 				1AF9CF402047AB96008BDDC4 /* ViewController.swift in Sources */,
-				1AF9CFEF2047BE23008BDDC4 /* AccountRecoveryAPIs.swift in Sources */,
-				1AF9CFF32047BE23008BDDC4 /* Appointment.swift in Sources */,
-				1AF9CFEE2047BE23008BDDC4 /* APIsConfig.swift in Sources */,
-				1AF9CFF22047BE23008BDDC4 /* UserCredentials.swift in Sources */,
 				1AF9CF702047B2B5008BDDC4 /* Log.swift in Sources */,
-				1AF9CFFA2047BE23008BDDC4 /* PhoneServiceAPIs.swift in Sources */,
-				1AF9CFF12047BE23008BDDC4 /* AppFeedbackAPIs.swift in Sources */,
-				1AF9CFEC2047BE23008BDDC4 /* UserAPIs.swift in Sources */,
-				1AF9CFEB2047BE23008BDDC4 /* PushService.swift in Sources */,
-				1AF9CFED2047BE23008BDDC4 /* CustomerAPIs.swift in Sources */,
-				1AF9CFF82047BE23008BDDC4 /* ContactSyncAPIs.swift in Sources */,
 				1AF9CF3E2047AB96008BDDC4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
